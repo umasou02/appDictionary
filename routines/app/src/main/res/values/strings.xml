@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">routines</string>
+    <string-array name="list_en">
+        <item>accountant</item>
+        <item>actuary</item>
+        <item>architect</item>
+        <item>baker</item>
+        <item>barber</item>
+        <item>bodyguard</item>
+        <item>chef</item>
+        <item>dancer</item>
+        <item>dentist</item>
+        <item>doctor</item>
+        <item>driver</item>
+        <item>editor</item>
+        <item>engineer</item>
+        <item>farmer</item>
+        <item>fireman</item>
+        <item>magician</item>
+        <item>manager</item>
+        <item>model</item>
+        <item>nurse</item>
+        <item>painter</item>
+        <item>photographer</item>
+        <item>plumber</item>
+        <item>poet</item>
+        <item>police</item>
+        <item>postman</item>
+        <item>programmer</item>
+        <item>reporter</item>
+        <item>translator</item>
+        <item>designer</item>
+        <item>writer</item>
+    </string-array>
+    <string-array name="list_vie">
+        <item> Kế Toán</item>
+        <item>Chuyên Viên Thống Kê</item>
+        <item> Kiến Trúc Sư</item>
+        <item>Thợ Làm Bánh</item>
+        <item> Thợ Cắt Tóc</item>
+        <item> Vệ Sĩ</item>
+        <item>Đầu Bếp </item>
+        <item> Diễn Viên Múa</item>
+        <item> Nha Sĩ</item>
+        <item>Bác Sĩ </item>
+        <item> Lái Xe</item>
+        <item>Biên Tập Viên </item>
+        <item>Kỹ Sư </item>
+        <item>Nông Dân</item>
+        <item>Lính Cứu Hỏa</item>
+        <item> Ảo Thuật Gia</item>
+        <item> Quản Lý</item>
+        <item> Người Mẫu</item>
+        <item>Y Tá </item>
+        <item> Họa Sĩ</item>
+        <item> Thợ Chụp ảnh</item>
+        <item>Thợ Sửa Ống Nước</item>
+        <item> Nhà Thơ</item>
+        <item> Cảnh Sát</item>
+        <item> Người đưa thư</item>
+        <item> Lập Trình Viên</item>
+        <item> Phóng Viên</item>
+        <item> Phiên Dịch Viên</item>
+        <item>Chuyên Viên thiết Kế Web </item>
+        <item>Nhà Văn</item>
+
+    </string-array>
+    <string-array name="list_img">
+        <item>accountantketoan</item>
+        <item>actuarychuyenvienthongke</item>
+        <item>architectkientrucsu</item>
+        <item>bakertholambanh</item>
+        <item>barberthocattoc</item>
+        <item>bodyguardvesi</item>
+        <item>chefdaubep</item>
+        <item>dancerdienvienmua</item>
+        <item>dentistnhasi</item>
+        <item>doctorbacsi</item>
+        <item>driverlaixe</item>
+        <item>editorbientapvien</item>
+        <item>engineerkysu</item>
+        <item>farmernongdan</item>
+        <item>firemanlinhcuuhoa</item>
+        <item>magicianaothuatgia</item>
+        <item>managerquanly</item>
+        <item>modelnguoimau</item>
+        <item>nurseyta</item>
+        <item>painterhoasi</item>
+        <item>photographerthochupanh</item>
+        <item>plumberthosuaongnuoc</item>
+        <item>poetnhatho</item>
+        <item>policecanhsat</item>
+        <item>postmannguoiduathu</item>
+        <item>programmerlaptrinhvien</item>
+        <item>reporterphongvien</item>
+        <item>translatorphiendichvien</item>
+        <item>webdesignerchuyenvienthietkeweb</item>
+        <item>writernhavan</item>
+
+    </string-array>
+    <string-array name="list_AM">
+        <item>/əˈpɑːtmənt/: </item>
+        <item>/ haʊs/: </item>
+        <item>/vɪlə/: </item>
+        <item>/ˈkæb.ɪn/: </item>
+        <item>/flæt/: </item>
+        <item>/ˈpent.haʊs/: </item>
+        <item>/ˈ taɪmʃeər /: </item>
+        <item>/kɒtɪʤ/: </item>
+        <item>/ˌkɒn.dəˈmɪn.i.əm/: </item>
+        <item>/bʌŋgələʊ/: </item>
+        <item>/ˈætɪk/: </item>
+        <item>/bælkəni/: </item>
+        <item>/ˈbeɪsmənt/: </item>
+        <item>/ˈbɑːθru(ː)m/: </item>
+        <item>/ˈbɛdru(ː)m/: </item>
+        <item>/sɛlə/: </item>
+        <item>/ˈdaɪ.nɪŋ ˌruːm/: </item>
+        <item>/ˈɡær.ɑːʒ/: </item>
+        <item>/ˈɡɑː.dən/: </item>
+        <item>/hɔːl/: </item>
+        <item>/ˈkɪtʃ.ən/: </item>
+        <item>/lændɪŋ/: </item>
+        <item>/ˈlæv.ə.tər.i/: </item>
+        <item>/ˈlɪvɪŋ ruːm/: </item>
+        <item>/ ʃɛd/: </item>
+        <item>/stʌdi/: </item>
+        <item>/dɪˈtæʧt haʊs/: </item>
+        <item>/ju(ː)ˈtɪlɪti ruːm/: </item>
+        <item>/ˈtɛrəs ɔː ˈpætɪəʊ/:</item>
+        <item>/ˈtɔɪ.lət/: </item>
+
+    </string-array>
+
+</resources>
